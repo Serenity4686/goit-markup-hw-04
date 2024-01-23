@@ -389,7 +389,6 @@ li>.link:focus {
 
 .footer-socials {
     flex-direction: column;
-    gap: 16px;
 }
 
 .footer-socials-text  {
@@ -416,6 +415,7 @@ li>.link:focus {
     align-items: center;
     background-color: var(--iris);
     margin-top: 8px;
+    gap: 16px;
 }
 
 .footer-socials-link:hover,
